@@ -85,7 +85,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📌Author
 
-👤 **Kishan Kumar Rai**
+👤 **Sohan Sabde**
 
 -- GitHub: [@augsatr](https://github.com/augsatr)
 - LinkedIn: [Sohan Sabde](https://www.linkedin.com/in/sohan-sabde-8a721b369)
